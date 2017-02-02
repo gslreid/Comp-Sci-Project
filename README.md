@@ -1,2 +1,3 @@
 # Comp-Sci-Project
-This is my computer science course work project.
+This is my A-Level computer science course work project.
+Type 1 Diabetic Blood Glucose Monitoring App.
