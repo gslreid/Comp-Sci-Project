@@ -1,0 +1,142 @@
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.pdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLite-net.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLite-net.xml
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.Views.ListBGs.xaml.g.cs
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.pdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.csprojResolveAssemblyReference.cache
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.pdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLite-net.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLite-net.xml
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.Views.HomeScreen.xaml.g.cs
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.pdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.csprojResolveAssemblyReference.cache
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-MainScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.pdb
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLite-net.dll
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.core.dll
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Core.dll
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLite-net.xml
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Core.xml
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.csprojResolveAssemblyReference.cache
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.Views.HomeScreen.xaml.g.cs
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.pdb
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+D:\Documents\Comp Sci Project\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.pdb
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLite-net.dll
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLite-net.xml
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.csprojResolveAssemblyReference.cache
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.Views.HomeScreen.xaml.g.cs
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.pdb
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Downloads\GlucoseSensorDataPCL-AndroidActivity\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.pdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLite-net.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\SQLite-net.xml
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.csprojResolveAssemblyReference.cache
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.pdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\obj\Debug\GlucoseSensorDataPCL.dll.mdb
+C:\Users\reidy\Documents\Visual Studio 2015\Projects\GlucoseSensorDataPCL-AndroidHomeScreen\GlucoseSensorDataPCL\GlucoseSensorDataPCL\bin\Debug\GlucoseSensorDataPCL.dll.mdb
